@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.scss"],"names":[],"mappings":"AAAC,UACG,4BAA8B,CAC9B,6BAA+B","file":"42.e9ccb243.chunk.css","sourcesContent":[" .disabled{\n    cursor: not-allowed !important;\n    pointer-events: none !important;\n }\n"]}
